@@ -1,0 +1,18 @@
+p {
+    font-weight: bold; 
+    color: seagreen; 
+    font-family: 'Russo One', Helvetica; 
+}
+body {
+    background-color: whitesmoke;
+}
+h1, h2, h3 {
+    font-style: normal; 
+    font-weight: bold; 
+    font-family: 'Comic Sans MS', sans-serif; 
+    color: darkslategray; 
+}
+img {
+    margin: 50px 0; 
+}
+
