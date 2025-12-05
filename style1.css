@@ -1,0 +1,26 @@
+p {
+    font-weight: bold; 
+    color: seagreen; 
+    font-family: 'Russo One', Helvetica; 
+}
+body {
+    background-color: whitesmoke;
+    text-align: center;
+    list-style-position: inside;
+}
+h1, h2, h3 {
+    font-style: normal; 
+    font-weight: bold; 
+    font-family: 'Comic Sans MS', sans-serif; 
+    color: darkslategray; 
+    text-decoration: underline;
+}
+img {
+    margin: 50px 0; 
+}
+table {
+margin: 20px auto;
+}
+ol {
+    margin:0 auto;
+}
